@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: https://www.eddytahibi.fr/projets/QR-code-challenge
-- Live Site URL: https://www.eddytahibi.fr/projets/QR-code-challenge
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-landing-page-using-boostrap-LtZNlq49qy
+- Live Site URL: https://eddy-t.github.io/Frontend-Mentor-Challenge-QR-Code/
 
 ### Built with
 
